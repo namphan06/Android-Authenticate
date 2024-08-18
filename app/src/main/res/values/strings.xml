@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase_Authenticate</string>
+    <string name="login">Login</string>
+</resources>
